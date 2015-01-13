@@ -1,5 +1,6 @@
-Welcome to Morepath's documentation!
-====================================
+Morepath
+========
+
 
 Contents:
 
@@ -12,6 +13,4 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
